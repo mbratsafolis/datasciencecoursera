@@ -1,1 +1,6 @@
-##This is a markdown file
+## This is a markdown file
+
+* Line 1
+* Line 2
+* Line 3
+* Line 4
